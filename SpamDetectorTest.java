@@ -1,7 +1,4 @@
-package test;
 
-import model.Email;
-import service.SpamDetector;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 

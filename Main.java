@@ -3,8 +3,7 @@
 
 import java.io.*;
 import java.util.*;
-import model.Email;
-import service.SpamDetector;
+
 
 public class Main {
 public static void main(String[] args) {

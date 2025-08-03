@@ -1,4 +1,4 @@
-package model;
+
 
 public class Email {
 private String content;
